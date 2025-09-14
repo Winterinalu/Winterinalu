@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Winterinalu/Winterinalu/blob/main/Winter.gif" width="100%" alt="Snowfall Banner" />
+  <img src="https://raw.githubusercontent.com/Winterinalu/Winterinalu/refs/heads/main/Winter.gif" alt="Snowfall Banner" />
 </p>
 
 <h1 align="center">Winteru</h1>
