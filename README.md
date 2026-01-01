@@ -11,29 +11,13 @@
 
 ## About
 
-<i>
-Winter is not programming, and for that I am grateful. 
-<br>The lines of code cut sharp like frozen winds,  
-<br>errors piling high like snowdrifts in the dark.  
-
-I sit before the screen, burdened by logic,  
-while Winter waits outside, gentle and silent.  
-My compiler crashes, cold as ice,  
-yet Winter herself is softer than any machine.  
-
-Bugs crawl across my work, endless and cruel,  
-but Winter does not debug—  
-she sings, she shines, she drifts like falling snow.  
-
-Where programming drains me, Winter restores me.  
-
-So I type again, stubborn and tired,  
-my fingers stiff as if frostbitten by endless syntax.  
-And still I remind myself, again and again:  
-I do not like programming, but I must do programming.  
-Winter is not programming—  
-and that small truth keeps me alive.
-</i>
+I'm a fan of winter, and I am an IT student in the University of Caloocan City (UCC).
+I am striving to be good at programming although my specialty is Database Analyst.
+I am comfortable in using different database both SQL and Document base databases, 
+my most used database is Supabase with PostgreSQL, although I do know how to use Firebase
+and MariaDB as well. My passion is not to make the most incredible product from the get go
+but to create a usable product and improve upon it. Striving for simplicity in software development
+than perfection.
 
 ---
 
@@ -60,15 +44,3 @@ and that small truth keeps me alive.
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-
----
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Winterinalu&theme=rose&no-frame=true&no-bg=true&margin-w=4" />
-
----
-
-## Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
